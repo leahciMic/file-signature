@@ -1,0 +1,21 @@
+{
+  "name": "file-signature",
+  "version": "0.0.0",
+  "description": "Get file information based on file signature",
+  "main": "file-signature.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "",
+  "keywords": [
+    "mime",
+    "mimetypes",
+    "file",
+    "signature"
+  ],
+  "author": "Michael Leaney",
+  "license": "BSD",
+  "dependencies": {
+    "jasmine-node": "~1.7.0"
+  }
+}
