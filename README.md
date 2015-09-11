@@ -1,4 +1,4 @@
- # file-signature
+ # file-signature [![Build Status](https://travis-ci.org/leahciMic/file-signature.svg?branch=master)](https://travis-ci.org/leahciMic/file-signature)
 
  Get file information based on file signature.  This utility is used to get file
  information based on the file signature. It does so by looking at "magic numbers"
