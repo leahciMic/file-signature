@@ -1,6 +1,6 @@
 {
   "name": "file-signature",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Get file information based on file signature",
   "main": "file-signature.js",
   "scripts": {
